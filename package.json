@@ -1,6 +1,6 @@
 {
   "name": "jeeves-tv",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "Jeeves TV launcher shell for TizenBrew. Content is served live by jeeves-hub on the home LAN.",
   "packageType": "app",
   "appName": "Jeeves TV",
