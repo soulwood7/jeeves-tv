@@ -1,0 +1,10 @@
+{
+  "name": "jeeves-tv",
+  "version": "0.1.0",
+  "description": "Jeeves TV launcher shell for TizenBrew. Content is served live by jeeves-hub on the home LAN.",
+  "packageType": "app",
+  "appName": "Jeeves TV",
+  "appPath": "app/index.html",
+  "keys": ["ColorF0Red", "ColorF1Green", "ColorF2Yellow", "ColorF3Blue", "MediaPlayPause"],
+  "license": "MIT"
+}
